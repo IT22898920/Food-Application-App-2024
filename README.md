@@ -1,2 +1,7 @@
 # Food-Application-App-2024
-The waste food management system features Google authentication for secure login, allows users to buy, sell, and share food items, offers recipe suggestions for surplus ingredients, includes a feedback mechanism for user interaction, and provides a health diary for promoting mindful consumption and well-being.
+Android studio & Kotlin 
+
+The waste food management system integrates Google authentication for secure login and offers functionalities
+for buying, selling, and sharing food items. It includes recipe suggestions for utilizing surplus ingredients and a
+feedback mechanism for user interaction. The platform also features a health diary to promote mindful
+consumption and overall well-being.
